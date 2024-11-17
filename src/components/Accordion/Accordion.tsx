@@ -1,8 +1,8 @@
-import { Details } from './styles';
+import { Details } from "./styles";
 
 type AccordionProps = {
   title: string;
-  content: string;
+  content: React.ReactNode;
 };
 
 export function Accordion({ title, content }: AccordionProps) {

@@ -16,7 +16,7 @@ export function FAQ() {
               title="Dia A - Peito, Ombros e Tríceps"
               content={
                 <div>
-                  <h3>Peito:</h3>
+                  <h3>Peito</h3>
                   <ul>
                     <li>
                       Supino reto (barra ou halteres): 4 séries de 8-12
