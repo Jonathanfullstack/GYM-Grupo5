@@ -29,12 +29,12 @@ export function Header() {
             </li>
             <li>
               <Link to="/plans" data-active={location.pathname === "/plans"}>
-                Ficha_Treino
+                Planos
               </Link>
             </li>
             <li>
               <Link to="/faq" data-active={location.pathname === "/faq"}>
-                FAQ
+                Ficha De Treino
               </Link>
             </li>
           </ul>
