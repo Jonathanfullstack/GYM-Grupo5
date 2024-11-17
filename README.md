@@ -1,6 +1,3 @@
-# Clone de um site de academia
-
-Clone do site da academia Tech Fit.
 
 ## Objetivo
 
